@@ -1,18 +1,18 @@
 from fastapi import APIRouter
 from fastapi.responses import JSONResponse
-from fastapi import FastAPI, HTTPException
+from fastapi import HTTPException
 from pathlib import Path
 import json
 
 # Create the router
 router = APIRouter(
   prefix='/amea-parking',
-  tags=['root']  
+  tags=['amea-parking']  
 )
 
 BASE_DIR = Path.cwd()
 GEOJSON_FILE = BASE_DIR / "routers/amea_parking/amea.geojson"
-print(GEOJSON_FILE)
+
 @router.get('', status_code=200)
 async def amea_parking():
   try:
