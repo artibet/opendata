@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import root
+from routers.amea_parking import router as amea_parking_router
 
 # Load environment variables from .env
 load_dotenv()
@@ -24,3 +25,4 @@ app.add_middleware(
 
 # Include the routers (endpoint groups)
 app.include_router(root.router)
+app.include_router(amea_parking_router.router)
