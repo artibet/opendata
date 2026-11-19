@@ -26,11 +26,11 @@ with open(input_csv, mode='r', encoding='utf-8-sig') as f:
         "coordinates": [lon, lat]  # Το GeoJSON απαιτεί [Longitude, Latitude]
       },
       "properties": {
-        "OBJECTID": row["OBJECTID"],
-        "Κατηγορία": row["Κατηγορία"],
-        "Περιγραφή": row["Περιγραφή"],
-        "Τοποθεσία": row["Τοποθεσία"],
-        "Κοινότητα": row["Κοινότητα"]
+        "object_id": int(row["OBJECTID"]) if row["OBJECTID"].isdigit() else row["OBJECTID"],
+        "category": row["Κατηγορία"],
+        "description": row["Περιγραφή"],
+        "location": row["Τοποθεσία"],
+        "community": row["Κοινότητα"],
       }
     }
     features.append(feature)
