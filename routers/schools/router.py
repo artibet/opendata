@@ -6,15 +6,15 @@ import json
 
 # Create the router
 router = APIRouter(
-  prefix='/schools',
-  tags=['schools']  
+  prefix='/school-units',
+  tags=['school-units']  
 )
 
 BASE_DIR = Path.cwd()
 GEOJSON_FILE = BASE_DIR / "routers/schools/schools.geojson"
 
 @router.get('', status_code=200)
-async def schools():
+async def schoolUnits():
   try:
     with open(GEOJSON_FILE, "r", encoding="utf-8") as f:
       data = json.load(f)
