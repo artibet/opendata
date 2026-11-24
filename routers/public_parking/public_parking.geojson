@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54294405,
+          41.0877984
+        ]
+      },
+      "properties": {
+        "object_id": 1,
+        "name": "Αναστασιάδης Χρ. - Καφεστίδης Ι. ΟΕ",
+        "location": "Σπετσών 16",
+        "size": "Μεγάλου Μεγέθους",
+        "spaces": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54308143,
+          41.0893829
+        ]
+      },
+      "properties": {
+        "object_id": 2,
+        "name": "Στάθμευση ΟΕ Καφεστίδης Ι",
+        "location": "Πατρ. Γρηγορίου Ε & Πτολεμαίων",
+        "size": "Μεσαίου μεγέθους",
+        "spaces": "43 + 2 δίκ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5542119,
+          41.09016268
+        ]
+      },
+      "properties": {
+        "object_id": 3,
+        "name": "Μαραγκάκης Κ.-Μαραγκάκης Γ.-Τσακίρη Ε.-Μακέναντζη",
+        "location": "Μ. Αλεξάνδρου 10",
+        "size": "Μεγάλου μεγέθους",
+        "spaces": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55368511,
+          41.08673699
+        ]
+      },
+      "properties": {
+        "object_id": 4,
+        "name": "Λαμπρινός Δημήτριος & Παναγιώτης",
+        "location": "Σιδηροκάστρου & Λοβάρδου",
+        "size": "Μεσαίου μεγέθους",
+        "spaces": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54717464,
+          41.08823416
+        ]
+      },
+      "properties": {
+        "object_id": 5,
+        "name": "ΣΑΣ ΑΕ",
+        "location": "29ης Ιουνίου & Π.Μελά",
+        "size": "Μεγάλου μεγέθους",
+        "spaces": "153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5501792,
+          41.09204857
+        ]
+      },
+      "properties": {
+        "object_id": 6,
+        "name": "Τσιουτσιουλικλή Στυλιανή",
+        "location": "Πρ. Χριστοφόρου 9-11",
+        "size": "Υπαίθριος σταθμός",
+        "spaces": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55162011,
+          41.09210424
+        ]
+      },
+      "properties": {
+        "object_id": 7,
+        "name": "Πηλίτσης Θεοφάνης",
+        "location": "Πρ. Χριστοφόρου 10",
+        "size": "Μεσαίου Μεγέθους",
+        "spaces": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55363313,
+          41.0900479
+        ]
+      },
+      "properties": {
+        "object_id": 8,
+        "name": "Μουρατίδης Αλέξανδρος",
+        "location": "Μ. Αλεξάνδρου 2",
+        "size": "Μικρού μεγέθους",
+        "spaces": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55020479,
+          41.0894033
+        ]
+      },
+      "properties": {
+        "object_id": 9,
+        "name": "Κωνσταντινίδου Κ. & Σια ΕΕ",
+        "location": "Τσαλοπούλου 11-11α",
+        "size": "Μεσαίου μεγέθους",
+        "spaces": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54456448,
+          41.08972005
+        ]
+      },
+      "properties": {
+        "object_id": 10,
+        "name": "Τραικου Μαρία",
+        "location": "Μιαούλη 4",
+        "size": "Υπαίθριος σταθμός",
+        "spaces": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55183283,
+          41.10125941
+        ]
+      },
+      "properties": {
+        "object_id": 11,
+        "name": "Δημοτικό Parking",
+        "location": "Εξοχών",
+        "size": "Υπαίθριος σταθμός",
+        "spaces": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58519952,
+          41.1011197
+        ]
+      },
+      "properties": {
+        "object_id": 12,
+        "name": "Δημοτικό Parking",
+        "location": "Αγ. Ιωάννης",
+        "size": "Μεσαίου μεγέθους",
+        "spaces": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.49809684,
+          41.10211908
+        ]
+      },
+      "properties": {
+        "object_id": 13,
+        "name": "Δημοτικό Parking",
+        "location": "Λευκώνας",
+        "size": "Μεσαίου Μεγέθους",
+        "spaces": "40"
+      }
+    }
+  ]
+}
