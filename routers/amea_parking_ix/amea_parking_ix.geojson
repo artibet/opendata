@@ -1,0 +1,1157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55235734168356,
+          41.08474711160834
+        ]
+      },
+      "properties": {
+        "object_id": 1,
+        "location": "ΜΑΡΑΘΏΝΟΣ 38",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551518042884705,
+          41.08889091319199
+        ]
+      },
+      "properties": {
+        "object_id": 2,
+        "location": "Ν. ΝΙΚΟΛΑΟΥ 9",
+        "status": "ΝΑΙ",
+        "parking_card": "ΟΧΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5472211105311,
+          41.08614515035716
+        ]
+      },
+      "properties": {
+        "object_id": 4,
+        "location": "ΔΕΛΑΠΟΡΤΑ 3",
+        "status": "ΝΑΙ",
+        "parking_card": "ΟΧΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551776206711573,
+          41.0903040638824
+        ]
+      },
+      "properties": {
+        "object_id": 6,
+        "location": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 3",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54842007615772,
+          41.09161373050357
+        ]
+      },
+      "properties": {
+        "object_id": 7,
+        "location": "Β. ΑΛΕΞΑΝΔΡΟΥ 6",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55469053491309,
+          41.090255779011436
+        ]
+      },
+      "properties": {
+        "object_id": 8,
+        "location": "ΑΜΥΝΤΑ 1",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.550004073784535,
+          41.08916505672635
+        ]
+      },
+      "properties": {
+        "object_id": 9,
+        "location": "ΤΣΑΛΟΠΟΥΛΟΥ 13Α",
+        "status": "ΝΑΙ",
+        "parking_card": "ΟΧΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54687664199299,
+          41.090433861869144
+        ]
+      },
+      "properties": {
+        "object_id": 15,
+        "location": "Β. ΗΡΑΚΛΕΙΟΥ 4",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54784941144212,
+          41.09558575774248
+        ]
+      },
+      "properties": {
+        "object_id": 17,
+        "location": "Λ. ΠΑΠΑΠΑΥΛΟΥ 61",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55354781484182,
+          41.089202674577905
+        ]
+      },
+      "properties": {
+        "object_id": 18,
+        "location": "Δ. ΣΠΥΡΙΔΗ 2",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5516380170608,
+          41.08746135806974
+        ]
+      },
+      "properties": {
+        "object_id": 19,
+        "location": "Δ. ΘΡΑΚΗΣ 24",
+        "status": "ΝΑΙ",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551398859647694,
+          41.09251912861389
+        ]
+      },
+      "properties": {
+        "object_id": 24,
+        "location": "ΑΡΙΣΤΟΤΕΛΟΥΣ 8",
+        "status": "ΝΑΙ",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.549976591587598,
+          41.09319284268037
+        ]
+      },
+      "properties": {
+        "object_id": 26,
+        "location": "ΠΑΠΑΠΑΥΛΟΥ 21",
+        "status": "ΝΑΙ",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55633021248051,
+          41.09588089547145
+        ]
+      },
+      "properties": {
+        "object_id": 27,
+        "location": "Ι.ΔΡΑΓΟΥΜΗ 55",
+        "status": "ΝΑΙ",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55434779889545,
+          41.08969436218638
+        ]
+      },
+      "properties": {
+        "object_id": 28,
+        "location": "Δ.ΣΠΥΡΙΔΗ 7",
+        "status": "ΝΑΙ",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551282130711563,
+          41.091154195159845
+        ]
+      },
+      "properties": {
+        "object_id": 29,
+        "location": "ΜΑΡΑΓΚΟΥΔΑΚΗ 2",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.544470648262017,
+          41.08643818955234
+        ]
+      },
+      "properties": {
+        "object_id": 32,
+        "location": "ΜΠΟΥΜΠΟΥΛΙΝΑΣ 8",
+        "status": "ΥΠΟ ΕΛΕΓΧΟ",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.549874529130857,
+          41.086221088053826
+        ]
+      },
+      "properties": {
+        "object_id": 37,
+        "location": "ΑΘ.ΦΥΛΑΚΤΟΥ 5",
+        "status": "1 ΘΕΣΕΙΣ",
+        "parking_card": "ΝΑΙ 145/2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5507147212471,
+          41.088893741712056
+        ]
+      },
+      "properties": {
+        "object_id": 38,
+        "location": "Γ. ΠΑΠΑΝΔΡΕΟΥ 16",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.553292063650183,
+          41.08510228606887
+        ]
+      },
+      "properties": {
+        "object_id": 40,
+        "location": "ΣΤΡΥΜΟΝΟΣ 28",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.533830056964945,
+          41.08660417923338
+        ]
+      },
+      "properties": {
+        "object_id": 41,
+        "location": "ΒΕΝΙΖΕΛΟΥ 179",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55206076535205,
+          41.0878324246409
+        ]
+      },
+      "properties": {
+        "object_id": 44,
+        "location": "ΑΓΗΣΙΛΑΟΥ 1",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54541337239769,
+          41.08685419044402
+        ]
+      },
+      "properties": {
+        "object_id": 451,
+        "location": "Κ. ΑΛΕΞΑΝΔΡΙΔΗ 4-6",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.544276116578544,
+          41.08296852343019
+        ]
+      },
+      "properties": {
+        "object_id": 454,
+        "location": "ΑΪΔΙΝΙΟΥ 20",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5488546464737,
+          41.092106146582395
+        ]
+      },
+      "properties": {
+        "object_id": 455,
+        "location": "ΠΛΑΣΤΗΡΑ 6",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.553553510407713,
+          41.09171950448653
+        ]
+      },
+      "properties": {
+        "object_id": 457,
+        "location": "ΑΛ.ΠΑΝΑΓΟΥΛΗ 6",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54189604340193,
+          41.08779808106482
+        ]
+      },
+      "properties": {
+        "object_id": 460,
+        "location": "ΠΡΟΔΟΣ Ν. ΙΝΤΖΕ 2",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.550559243607374,
+          41.09000044659277
+        ]
+      },
+      "properties": {
+        "object_id": 461,
+        "location": "ΤΣΑΚΟΛΠΟΥΛΟΥ 1",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.546401818834624,
+          41.090966726964346
+        ]
+      },
+      "properties": {
+        "object_id": 462,
+        "location": "Γ. ΡΑΚΙΤΖΗ 20",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55490467326973,
+          41.09416596405302
+        ]
+      },
+      "properties": {
+        "object_id": 463,
+        "location": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 64",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.546794710154632,
+          41.08940138050446
+        ]
+      },
+      "properties": {
+        "object_id": 849,
+        "location": "Π. ΜΕΛΑ 2",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55518789767429,
+          41.092753773785525
+        ]
+      },
+      "properties": {
+        "object_id": 851,
+        "location": "ΧΑΤΖΗΠΑΝΤΑΖΗ",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.547872725723266,
+          41.088240563751164
+        ]
+      },
+      "properties": {
+        "object_id": 854,
+        "location": "29Ης ΙΟΥΝΙΟΥ 6",
+        "status": "ΥΠΟ ΕΛΕΓΧΟ",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.546146339158177,
+          41.089782546562944
+        ]
+      },
+      "properties": {
+        "object_id": 2048,
+        "location": "ΑΙΧΜΑΛΩΤΩΝ 16-18",
+        "status": "",
+        "parking_card": "ΝΑΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.555143138058938,
+          41.08874963765273
+        ]
+      },
+      "properties": {
+        "object_id": 2849,
+        "location": "ΑΜΥΝΤΑ 9",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55801813140535,
+          41.096015933436426
+        ]
+      },
+      "properties": {
+        "object_id": 2851,
+        "location": "",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55468859006521,
+          41.092816898235284
+        ]
+      },
+      "properties": {
+        "object_id": 2853,
+        "location": "Ε.ΑΝΤΙΣΤΑΣΗΣ 28-30",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.542626107027424,
+          41.084940045838145
+        ]
+      },
+      "properties": {
+        "object_id": 3248,
+        "location": "ΠΑΛΛΑΔΑΡΙΟΥ 7",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55106157040477,
+          41.09014348794754
+        ]
+      },
+      "properties": {
+        "object_id": 3249,
+        "location": "Δ. ΣΟΛΩΜΟΥ 60",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.555443546262715,
+          41.091502946118545
+        ]
+      },
+      "properties": {
+        "object_id": 3251,
+        "location": "ΠΑΠΑΣΥΝΟΔΙΝΟΥ 10",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.540173897799992,
+          41.08615596518923
+        ]
+      },
+      "properties": {
+        "object_id": 3252,
+        "location": "ΚΟΜΝΗΝΩΝ 61",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.556533078987947,
+          41.09601664394145
+        ]
+      },
+      "properties": {
+        "object_id": 3653,
+        "location": "ΔΡΑΓΟΥΜΗ 59Β",
+        "status": "",
+        "parking_card": "25/2023 ΕΠΖ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.545790946648694,
+          41.08824895773993
+        ]
+      },
+      "properties": {
+        "object_id": 3655,
+        "location": "ΕΔΕΣΣΗΣ 12",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "129/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.552508992118675,
+          41.09319744539124
+        ]
+      },
+      "properties": {
+        "object_id": 3656,
+        "location": "ΝΕΣΤΩΡΟΣ ΦΩΚΑ 4",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 128/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.548070404731728,
+          41.08697094515211
+        ]
+      },
+      "properties": {
+        "object_id": 3657,
+        "location": "ΥΨΗΛΆΝΤΟΥ 1",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 394/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.548751685903184,
+          41.09258675289814
+        ]
+      },
+      "properties": {
+        "object_id": 3659,
+        "location": "ΣΤΑΜΟΥΛΗ",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 651/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.545026076946424,
+          41.08562451513874
+        ]
+      },
+      "properties": {
+        "object_id": 3660,
+        "location": "ΜΕΡΑΡΧΙΑΣ 60",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 805/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54194242065795,
+          41.08679600974778
+        ]
+      },
+      "properties": {
+        "object_id": 3661,
+        "location": "ΚΟΜΝΗΝΩΝ 38",
+        "status": "ΕΛΗΞΕ Η ΚΑΡΤΑ",
+        "parking_card": "ΝΑΙ 114/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.541196656741896,
+          41.087292035348995
+        ]
+      },
+      "properties": {
+        "object_id": 3663,
+        "location": "8ης ΜΑΙΟΥ 25",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.554825212874796,
+          41.087501018550896
+        ]
+      },
+      "properties": {
+        "object_id": 3664,
+        "location": "Δ.ΘΡΑΚΗΣ 24",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.553555689690317,
+          41.08466517928121
+        ]
+      },
+      "properties": {
+        "object_id": 3665,
+        "location": "ΣΤΡΥΜΩΝΟΣ 28",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.542070889834097,
+          41.089684697578
+        ]
+      },
+      "properties": {
+        "object_id": 4048,
+        "location": "Φιλικής εταιρείΑς 3",
+        "status": "ΕΝΕΡΓΉ",
+        "parking_card": "ΝΑΙ 397/2017 Απόφαση"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.550189517552035,
+          41.08805317812519
+        ]
+      },
+      "properties": {
+        "object_id": 4049,
+        "location": "Παπανδρέου 24",
+        "status": "ενεργή",
+        "parking_card": "Ναι 655/2017 και7/20 ΑΔ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.556721156982093,
+          41.09457782582348
+        ]
+      },
+      "properties": {
+        "object_id": 4050,
+        "location": "Αγίου Αντωνίου με Κωνσταντινουπόλεως",
+        "status": "",
+        "parking_card": "25/2023 ΑΠΖ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.553131263868856,
+          41.093027645603094
+        ]
+      },
+      "properties": {
+        "object_id": 4448,
+        "location": "ΖΛΑΤΚΟΥ ΜΕ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ",
+        "status": "",
+        "parking_card": "ΕΛΗΞΕ 106/2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.539077627886602,
+          41.08405997951697
+        ]
+      },
+      "properties": {
+        "object_id": 4449,
+        "location": "ΤΣΑΜΑΔΟΥ 17",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 112/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55477063440809,
+          41.09222931876009
+        ]
+      },
+      "properties": {
+        "object_id": 4450,
+        "location": "ΠΑΝΑΓΟΥΛΗ 16",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 111/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55313173312835,
+          41.091033468544126
+        ]
+      },
+      "properties": {
+        "object_id": 4451,
+        "location": "ΡΩΜΑΝΟΥ 8",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 787/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54649058360178,
+          41.09162374079525
+        ]
+      },
+      "properties": {
+        "object_id": 4452,
+        "location": "ΣΤΑΜΟΥΛΗ 19",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 804/2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551243437513516,
+          41.08397886629345
+        ]
+      },
+      "properties": {
+        "object_id": 4453,
+        "location": "ΚΕΡΑΣΟΥΝΤΟΣ 10",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 112/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55242985893391,
+          41.08880142745101
+        ]
+      },
+      "properties": {
+        "object_id": 4454,
+        "location": "ΔΥΤΙΚΗΣ ΘΡΑΚΗΣ 8",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 879/2016 ΑΔΣ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.540944638976164,
+          41.087879589692314
+        ]
+      },
+      "properties": {
+        "object_id": 4455,
+        "location": "ΕΡΥΘΡΟΥ ΣΤΑΥΡΟΥ 2",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 665/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.546458854201962,
+          41.09782712926153
+        ]
+      },
+      "properties": {
+        "object_id": 4456,
+        "location": "ΠΑΠΑΠΑΥΛΟΥ 111",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 667/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.545642334487866,
+          41.09119305026109
+        ]
+      },
+      "properties": {
+        "object_id": 4458,
+        "location": "ΟΜΗΡΩΝ 18",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 516/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.53991850105571,
+          41.08710952309493
+        ]
+      },
+      "properties": {
+        "object_id": 4459,
+        "location": "ΚΑΝΑΚΗ 6",
+        "status": "ΕΝΕΡΓΗ",
+        "parking_card": "ΝΑΙ 515/2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54211791191478,
+          41.087542145867275
+        ]
+      },
+      "properties": {
+        "object_id": 4460,
+        "location": "ΙΝΤΖΕ 6",
+        "status": "",
+        "parking_card": "738/25 ΔΕ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.542021353151195,
+          41.08517683418904
+        ]
+      },
+      "properties": {
+        "object_id": 4461,
+        "location": "ΣΕΒΑΣΤΕΙΑΣ 10",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551097948316038,
+          41.08789390293829
+        ]
+      },
+      "properties": {
+        "object_id": 4462,
+        "location": "Ν.ΝΙΚΟΛΑΟΥ 19",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.539553720780358,
+          41.08607849265813
+        ]
+      },
+      "properties": {
+        "object_id": 4463,
+        "location": "ΚΟΜΝΗΝΩΝ 60",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.541207386627626,
+          41.08729405712706
+        ]
+      },
+      "properties": {
+        "object_id": 4848,
+        "location": "",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.551839913996695,
+          41.090327153241624
+        ]
+      },
+      "properties": {
+        "object_id": 4849,
+        "location": "ΚΩΝΣΤΑΝΤΙΝΟΥΟΛΕΩΣ 2",
+        "status": "",
+        "parking_card": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.542995665220097,
+          41.08168957931086
+        ]
+      },
+      "properties": {
+        "object_id": 4850,
+        "location": "ΔΑΓΚΛΗ 33",
+        "status": "",
+        "parking_card": ""
+      }
+    }
+  ]
+}
