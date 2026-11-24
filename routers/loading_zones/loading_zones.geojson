@@ -1,0 +1,1449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5521166,
+          41.08981577
+        ]
+      },
+      "properties": {
+        "object_id": 1,
+        "location": "Ν. Νικολάου",
+        "city_block": "210",
+        "intersection": "Πλατεία Εμπορίου",
+        "length": 12,
+        "spaces": 0,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55217739,
+          41.09014223
+        ]
+      },
+      "properties": {
+        "object_id": 2,
+        "location": "Πλατεία Εμποριου",
+        "city_block": null,
+        "intersection": "Στον πεζόδρομο",
+        "length": 0,
+        "spaces": 0,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55220285,
+          41.09074115
+        ]
+      },
+      "properties": {
+        "object_id": 3,
+        "location": "Κωνσταντινουπόλεως",
+        "city_block": "77",
+        "intersection": "Δ. Σολωμού-Ν. Φωκά (θέση ΕΛΤΑ)",
+        "length": 16,
+        "spaces": 2,
+        "decision": "31/10/2006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55327399,
+          41.09088493
+        ]
+      },
+      "properties": {
+        "object_id": 4,
+        "location": "Αρ. Μακαρίου",
+        "city_block": "79",
+        "intersection": "Φιλώτα-Ν. Φωκά",
+        "length": 10,
+        "spaces": 0,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55312381,
+          41.08994331
+        ]
+      },
+      "properties": {
+        "object_id": 5,
+        "location": "Μ. Αλεξάνδρου",
+        "city_block": "222",
+        "intersection": "Είσοδος Μ. Αλεξάνδρου",
+        "length": 8,
+        "spaces": 2,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55327986,
+          41.089287
+        ]
+      },
+      "properties": {
+        "object_id": 6,
+        "location": "Αν. Θράκης",
+        "city_block": null,
+        "intersection": "Δ. Σπυρίδη-Δυτ. Θράκης",
+        "length": 12,
+        "spaces": 0,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55409496,
+          41.09016456
+        ]
+      },
+      "properties": {
+        "object_id": 7,
+        "location": "Μ. Αλεξάνδρου",
+        "city_block": "222",
+        "intersection": "Φαρμακείο",
+        "length": 16,
+        "spaces": 2,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55449532,
+          41.09035678
+        ]
+      },
+      "properties": {
+        "object_id": 8,
+        "location": "Μ. Αλεξάνδρου",
+        "city_block": "80",
+        "intersection": "ΕΛΤΑ κούριερ",
+        "length": 16,
+        "spaces": 2,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55496538,
+          41.09072503
+        ]
+      },
+      "properties": {
+        "object_id": 9,
+        "location": "20ης Σεπτεμβρίου",
+        "city_block": "80",
+        "intersection": "20ης Σεπτεμβρίου (19ο Δημοτικό Σχολείο)",
+        "length": 17,
+        "spaces": 3,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55518424,
+          41.09038625
+        ]
+      },
+      "properties": {
+        "object_id": 10,
+        "location": "Φιλίππου",
+        "city_block": "224",
+        "intersection": "Μ. Αλεξάνδρου-Φιλίππου (στο παρκάκι)",
+        "length": 15,
+        "spaces": 2,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55278944,
+          41.08785955
+        ]
+      },
+      "properties": {
+        "object_id": 11,
+        "location": "Ανδριανουπόλεως",
+        "city_block": "211",
+        "intersection": "Αγησιλάου-Αν. Θράκης",
+        "length": 12,
+        "spaces": 0,
+        "decision": "20/2/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55228235,
+          41.08773096
+        ]
+      },
+      "properties": {
+        "object_id": 12,
+        "location": "Αγησιλάου",
+        "city_block": "211",
+        "intersection": "Δυτ. Θράκης-Ανδριανουπόλεως",
+        "length": 12,
+        "spaces": 0,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55194794,
+          41.08768795
+        ]
+      },
+      "properties": {
+        "object_id": 13,
+        "location": "Δυτ. Θράκης",
+        "city_block": "212",
+        "intersection": "Αγησιλάου-Ιουστινιανού",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55214887,
+          41.08825329
+        ]
+      },
+      "properties": {
+        "object_id": 14,
+        "location": "Δυτ. Θράκης",
+        "city_block": "207",
+        "intersection": "Δημογερόντων-Ιουστινιανού",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5515297,
+          41.08868138
+        ]
+      },
+      "properties": {
+        "object_id": 15,
+        "location": "Ν. Νικολάου",
+        "city_block": "207",
+        "intersection": "Δημογερόντων-Περ. Κωστοπούλου",
+        "length": 12,
+        "spaces": 0,
+        "decision": "20/2/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55121064,
+          41.08811856
+        ]
+      },
+      "properties": {
+        "object_id": 16,
+        "location": "Ν. Νικολάου",
+        "city_block": "207",
+        "intersection": "Δημογερόντων-Περ. Κωστοπούλου",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55026859,
+          41.08767843
+        ]
+      },
+      "properties": {
+        "object_id": 18,
+        "location": "Ιουστινιανού",
+        "city_block": "205",
+        "intersection": "Ν. Νικολάου-Γ. Παπανδρέου",
+        "length": 12,
+        "spaces": 0,
+        "decision": "20/2/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55065219,
+          41.08859306
+        ]
+      },
+      "properties": {
+        "object_id": 19,
+        "location": "Γ. Παπανδρέου",
+        "city_block": "208",
+        "intersection": "Δημογερόντων-Περ. Κωστοπούλου",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55177214,
+          41.08922156
+        ]
+      },
+      "properties": {
+        "object_id": 20,
+        "location": "Ν. Νικολάου",
+        "city_block": "209",
+        "intersection": "Εφόρων-Δημογερόντων",
+        "length": 12,
+        "spaces": 0,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55099127,
+          41.0891068
+        ]
+      },
+      "properties": {
+        "object_id": 21,
+        "location": "Γ. Παπανδρέου",
+        "city_block": "209",
+        "intersection": "Δημογερόντων-Εφόρων",
+        "length": 12,
+        "spaces": 2,
+        "decision": "20/2/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54985824,
+          41.08895342
+        ]
+      },
+      "properties": {
+        "object_id": 22,
+        "location": "Τσαλοπούλου",
+        "city_block": "196",
+        "intersection": "Δ. Σολωμού-Περ. Κωστοπούλου",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54942487,
+          41.08802852
+        ]
+      },
+      "properties": {
+        "object_id": 23,
+        "location": "Ιουστινιανού",
+        "city_block": "197",
+        "intersection": "Γ. Παπανδρέου-Μεραρχίας",
+        "length": 8,
+        "spaces": 0,
+        "decision": "20/2/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54886483,
+          41.08807886
+        ]
+      },
+      "properties": {
+        "object_id": 24,
+        "location": "Ιουστινιανού",
+        "city_block": "188",
+        "intersection": "Γ. Παπανδρέου-Μεραρχίας",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54844352,
+          41.08736617
+        ]
+      },
+      "properties": {
+        "object_id": 25,
+        "location": "Υψηλάντου",
+        "city_block": "199",
+        "intersection": "Δημ. Φλωριά-Χρυσ. Σμύρνης",
+        "length": 13,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54922995,
+          41.08739997
+        ]
+      },
+      "properties": {
+        "object_id": 26,
+        "location": "Δημ. Φλωριά",
+        "city_block": "200",
+        "intersection": "Υψηλάντου-Γ. Παπανδρέου",
+        "length": 12,
+        "spaces": 0,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54879195,
+          41.08705265
+        ]
+      },
+      "properties": {
+        "object_id": 27,
+        "location": "Χρ. Σμύρνης",
+        "city_block": "200",
+        "intersection": "Γ. Παπανδρέου-Υψηλάντου",
+        "length": 12,
+        "spaces": 1,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54935789,
+          41.08699239
+        ]
+      },
+      "properties": {
+        "object_id": 28,
+        "location": "Ραιδεστού",
+        "city_block": "204",
+        "intersection": "Χρυσ. Σμύρνης-Στρυμόνος",
+        "length": 10,
+        "spaces": 1,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54985311,
+          41.08733307
+        ]
+      },
+      "properties": {
+        "object_id": 29,
+        "location": "Γ. Παπανδρέου",
+        "city_block": "205",
+        "intersection": "Ιουστινιανού-Στρυμόνος",
+        "length": 12,
+        "spaces": 3,
+        "decision": "20/2/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55001665,
+          41.08708404
+        ]
+      },
+      "properties": {
+        "object_id": 30,
+        "location": "Στρυμόνος",
+        "city_block": "204",
+        "intersection": "Γ. Παπανδρέου-Δυτ. Θράκης",
+        "length": 12,
+        "spaces": 0,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55149515,
+          41.0870932
+        ]
+      },
+      "properties": {
+        "object_id": 31,
+        "location": "Δυτ. Θράκης",
+        "city_block": "205",
+        "intersection": "Ιουστινιανού-Στρυμόνος",
+        "length": 10,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55229407,
+          41.08691372
+        ]
+      },
+      "properties": {
+        "object_id": 32,
+        "location": "Μουδανίων",
+        "city_block": "214",
+        "intersection": "Λυσάνδρου-Δομβάρδου",
+        "length": 10,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55166821,
+          41.08645079
+        ]
+      },
+      "properties": {
+        "object_id": 33,
+        "location": "Στρυμόνος",
+        "city_block": "213",
+        "intersection": "Δυτ. Θράκης-Νικομηδείας",
+        "length": 12,
+        "spaces": 0,
+        "decision": "25/1/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55089671,
+          41.08622256
+        ]
+      },
+      "properties": {
+        "object_id": 34,
+        "location": "Χρ. Σμύρνης",
+        "city_block": "203",
+        "intersection": "Γ. Παπανδρέου-Δυτ. Θράκης",
+        "length": 12,
+        "spaces": 1,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5511545,
+          41.08617531
+        ]
+      },
+      "properties": {
+        "object_id": 35,
+        "location": "Δυτ. Θράκης",
+        "city_block": "213",
+        "intersection": "Χρυσ. Σμύρνης-Θεσσαλονίκης",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55092221,
+          41.08574446
+        ]
+      },
+      "properties": {
+        "object_id": 36,
+        "location": "Δυτ. Θράκης",
+        "city_block": "213",
+        "intersection": "Χρυσ. Σμύρνης-Θεσσαλονίκης",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54627621,
+          41.08521309
+        ]
+      },
+      "properties": {
+        "object_id": 37,
+        "location": "Ραιδεστού",
+        "city_block": "178",
+        "intersection": "Σπετσών-Κ.Αλεξανδρίδη (Γενική ταχυδρομική)",
+        "length": 15,
+        "spaces": 1,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54672727,
+          41.08777347
+        ]
+      },
+      "properties": {
+        "object_id": 38,
+        "location": "Π. Μελλά",
+        "city_block": null,
+        "intersection": "29ης Ιουνίου-Θεσσαλονίκης",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54647179,
+          41.08739617
+        ]
+      },
+      "properties": {
+        "object_id": 39,
+        "location": "Θεσσαλονίκης",
+        "city_block": null,
+        "intersection": "Π. Μελλά-Καβάφη",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54428519,
+          41.08895672
+        ]
+      },
+      "properties": {
+        "object_id": 40,
+        "location": "Ελ. Βενιζέλου",
+        "city_block": "119",
+        "intersection": "Πτολεμαίων-Μαυροκορδάτου",
+        "length": 0,
+        "spaces": 1,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54500498,
+          41.08907575
+        ]
+      },
+      "properties": {
+        "object_id": 41,
+        "location": "Ελ. Βενιζέλου",
+        "city_block": "4",
+        "intersection": "Ομήρων-Τρωάδος",
+        "length": 6,
+        "spaces": 1,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5457092,
+          41.08945391
+        ]
+      },
+      "properties": {
+        "object_id": 42,
+        "location": "Ελ. Βενιζέλου",
+        "city_block": "161",
+        "intersection": "Εδέσσης-Κομνηνών",
+        "length": 6,
+        "spaces": 1,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54682311,
+          41.08908016
+        ]
+      },
+      "properties": {
+        "object_id": 43,
+        "location": "Π. Μελλά",
+        "city_block": null,
+        "intersection": "Ερμού-29ης Ιουνίου",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54656825,
+          41.08993844
+        ]
+      },
+      "properties": {
+        "object_id": 44,
+        "location": "Β. Βασιλείου",
+        "city_block": "7",
+        "intersection": "Ομήρων-Νικ. Νικολάου (πρώην Αστυνομία)",
+        "length": 17,
+        "spaces": 3,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54674965,
+          41.08990042
+        ]
+      },
+      "properties": {
+        "object_id": 45,
+        "location": "Β. Βασιλείου",
+        "city_block": "8",
+        "intersection": "Σκρα-Ερμού",
+        "length": 16,
+        "spaces": 3,
+        "decision": "31/7/2008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54465221,
+          41.09009719
+        ]
+      },
+      "properties": {
+        "object_id": 46,
+        "location": "Β. Ηρακλείου",
+        "city_block": "3",
+        "intersection": "Μιαούλη-Τρωάδως",
+        "length": 8,
+        "spaces": 1,
+        "decision": "28/3/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54712521,
+          41.0902594
+        ]
+      },
+      "properties": {
+        "object_id": 47,
+        "location": "Β. Βασιλείου",
+        "city_block": "8",
+        "intersection": "Σκρα",
+        "length": 17,
+        "spaces": 3,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54703276,
+          41.09053313
+        ]
+      },
+      "properties": {
+        "object_id": 48,
+        "location": "Β. Ηρακλείου",
+        "city_block": null,
+        "intersection": "Πλατεία Δήμητρας",
+        "length": 10,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54764224,
+          41.09066214
+        ]
+      },
+      "properties": {
+        "object_id": 49,
+        "location": "Β. Βασιλείου",
+        "city_block": "12",
+        "intersection": "Εμ. Ανδρονικου-Σκρα (κοντά Sephora)",
+        "length": 22,
+        "spaces": 3,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54541425,
+          41.09133862
+        ]
+      },
+      "properties": {
+        "object_id": 50,
+        "location": "Κρέσνας",
+        "city_block": "282",
+        "intersection": "Μιαούλη-Ομήρων",
+        "length": 8,
+        "spaces": 1,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54911306,
+          41.09123395
+        ]
+      },
+      "properties": {
+        "object_id": 51,
+        "location": "Β. Βασιλείου",
+        "city_block": "15",
+        "intersection": "Βασ.Αλεξάνδρου-Λαμπράκη",
+        "length": 20,
+        "spaces": 3,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5503864,
+          41.09160686
+        ]
+      },
+      "properties": {
+        "object_id": 52,
+        "location": "Εθν. Αντίστασης",
+        "city_block": "24",
+        "intersection": "Παπαπαύλου-Κύπρου",
+        "length": 13,
+        "spaces": 2,
+        "decision": "31/7/2008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55001851,
+          41.09190905
+        ]
+      },
+      "properties": {
+        "object_id": 53,
+        "location": "Πρ. Χριστοφόρου",
+        "city_block": "24",
+        "intersection": "Κύπρου-Λ.Παπαπαύλου",
+        "length": 10,
+        "spaces": 1,
+        "decision": "17/7/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55102281,
+          41.09213771
+        ]
+      },
+      "properties": {
+        "object_id": 54,
+        "location": "Πρ. Χριστοφόρου",
+        "city_block": "28",
+        "intersection": "Λ.Παπαπαύλου-Γενναδίου",
+        "length": 12,
+        "spaces": 1,
+        "decision": "28/3/2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55172384,
+          41.09182062
+        ]
+      },
+      "properties": {
+        "object_id": 55,
+        "location": "Εθν. Αντίστασης",
+        "city_block": "29",
+        "intersection": "Παπαπαύλου-Γενναδίου",
+        "length": 18,
+        "spaces": 3,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5518212,
+          41.0916914
+        ]
+      },
+      "properties": {
+        "object_id": 56,
+        "location": "Εθν. Αντίστασης",
+        "city_block": "30",
+        "intersection": "Παπαπαύλου-Γενναδίου",
+        "length": 13,
+        "spaces": 2,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55274318,
+          41.09191811
+        ]
+      },
+      "properties": {
+        "object_id": 57,
+        "location": "Εθν. Αντίστασης",
+        "city_block": null,
+        "intersection": "Κωσταντινουπόλεως-Αρχ. Μακαρίου",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5531646,
+          41.09226133
+        ]
+      },
+      "properties": {
+        "object_id": 58,
+        "location": "Εθν. Αντίστασης",
+        "city_block": "39",
+        "intersection": "Αρχ. Μακαρίου-Ζλάτκου",
+        "length": 12,
+        "spaces": 2,
+        "decision": "31/7/2008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55383763,
+          41.09224144
+        ]
+      },
+      "properties": {
+        "object_id": 59,
+        "location": "20ης Σεπτεμβρίου",
+        "city_block": "46",
+        "intersection": "Ρωμανού-Αλ. Παναγούλη",
+        "length": 16,
+        "spaces": 2,
+        "decision": "6/3/2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55036019,
+          41.08968164
+        ]
+      },
+      "properties": {
+        "object_id": 60,
+        "location": "Τσαλοπούλου",
+        "city_block": "196",
+        "intersection": "Δ. Σολωμού-Περ. Κωστοπούλου",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54804329,
+          41.08971816
+        ]
+      },
+      "properties": {
+        "object_id": 61,
+        "location": "Ερμού",
+        "city_block": "184",
+        "intersection": "Εμ. Ανδρονικου-Π. Τσαλδάρη",
+        "length": 10,
+        "spaces": 1,
+        "decision": "31/5/2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55248428,
+          41.08889722
+        ]
+      },
+      "properties": {
+        "object_id": 62,
+        "location": "Δυτ. Θράκης",
+        "city_block": "209Α",
+        "intersection": "Εφόρων-Δημογερόντων",
+        "length": 12,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55242733,
+          41.09132894
+        ]
+      },
+      "properties": {
+        "object_id": 63,
+        "location": "Αλ. Παναγούλη",
+        "city_block": null,
+        "intersection": "Διασταύρωση με Αρ. Μακαρίου",
+        "length": 10,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55117095,
+          41.09097463
+        ]
+      },
+      "properties": {
+        "object_id": 64,
+        "location": "Μαραγκουδάκη",
+        "city_block": null,
+        "intersection": "Μαραγκουδάκη 8",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55073334,
+          41.09013007
+        ]
+      },
+      "properties": {
+        "object_id": 65,
+        "location": "Αιχμαλώτων",
+        "city_block": null,
+        "intersection": "Αιχμαλώτων 16-18 γωνία με Β.Ηρακλείου",
+        "length": 0,
+        "spaces": 0,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5765601,
+          41.08946312
+        ]
+      },
+      "properties": {
+        "object_id": 66,
+        "location": null,
+        "city_block": null,
+        "intersection": null,
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5526184,
+          41.09005922
+        ]
+      },
+      "properties": {
+        "object_id": 67,
+        "location": null,
+        "city_block": null,
+        "intersection": null,
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54446774,
+          41.08876116
+        ]
+      },
+      "properties": {
+        "object_id": 466,
+        "location": null,
+        "city_block": null,
+        "intersection": null,
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55495484,
+          41.09049768
+        ]
+      },
+      "properties": {
+        "object_id": 1266,
+        "location": null,
+        "city_block": "224",
+        "intersection": "Μ. Αλεξάνδρου-Φιλίππου",
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55758412,
+          41.09070782
+        ]
+      },
+      "properties": {
+        "object_id": 1667,
+        "location": "Φιλίππου 18",
+        "city_block": null,
+        "intersection": null,
+        "length": 10,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55354295,
+          41.07956696
+        ]
+      },
+      "properties": {
+        "object_id": 1668,
+        "location": "Μαγνησίας 5",
+        "city_block": null,
+        "intersection": null,
+        "length": 10,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.53295012,
+          41.08683676
+        ]
+      },
+      "properties": {
+        "object_id": 1669,
+        "location": "Δραγατσανίου",
+        "city_block": null,
+        "intersection": "Δραγατσανίου με Βενιζέλου",
+        "length": 10,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54122298,
+          41.08718632
+        ]
+      },
+      "properties": {
+        "object_id": 1670,
+        "location": "8ης Μαιου 23",
+        "city_block": null,
+        "intersection": null,
+        "length": 10,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55290647,
+          41.08064765
+        ]
+      },
+      "properties": {
+        "object_id": 1671,
+        "location": "Παπαδημητρίου",
+        "city_block": null,
+        "intersection": "Παπαδημητρίου με Θουκυδίδη",
+        "length": 10,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55359219,
+          41.09109635
+        ]
+      },
+      "properties": {
+        "object_id": 2066,
+        "location": "Ρωμανου 10",
+        "city_block": null,
+        "intersection": null,
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55379826,
+          41.09064269
+        ]
+      },
+      "properties": {
+        "object_id": 2466,
+        "location": null,
+        "city_block": null,
+        "intersection": null,
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55380899,
+          41.0906629
+        ]
+      },
+      "properties": {
+        "object_id": 2866,
+        "location": "ΦΙΛΩΤΑ 3",
+        "city_block": null,
+        "intersection": null,
+        "length": null,
+        "spaces": null,
+        "decision": null
+      }
+    }
+  ]
+}

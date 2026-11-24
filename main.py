@@ -9,6 +9,7 @@ from routers.schools import router as schools_router
 from routers.crosswalks import router as crosswalks_router
 from routers.amea_parking_ix import router as amea_parking_ix_router
 from routers.bicycles import router as bicycles_router
+from routers.loading_zones import router as loading_zones_router
 
 # Load environment variables from .env
 load_dotenv()
@@ -36,3 +37,4 @@ app.include_router(schools_router.router)
 app.include_router(crosswalks_router.router)
 app.include_router(amea_parking_ix_router.router)
 app.include_router(bicycles_router.router)
+app.include_router(loading_zones_router.router)
