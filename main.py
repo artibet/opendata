@@ -6,6 +6,7 @@ from routers import root
 # routers
 from routers.amea_parking import router as amea_parking_router
 from routers.schools import router as schools_router
+from routers.crosswalks import router as crosswalks_router
 
 # Load environment variables from .env
 load_dotenv()
@@ -30,3 +31,4 @@ app.add_middleware(
 app.include_router(root.router)
 app.include_router(amea_parking_router.router)
 app.include_router(schools_router.router)
+app.include_router(crosswalks_router.router)
