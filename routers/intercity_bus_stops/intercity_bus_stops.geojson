@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54475955,
+          41.07741489
+        ]
+      },
+      "properties": {
+        "object_id": 1,
+        "name": "Σταθμός Υπεραστικών Λεωφορείων ΚΤΕΛ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54427476,
+          41.08770647
+        ]
+      },
+      "properties": {
+        "object_id": 2,
+        "name": "Παναγίτσα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54030257,
+          41.08756082
+        ]
+      },
+      "properties": {
+        "object_id": 3,
+        "name": "Παρφέ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54316029,
+          41.0872457
+        ]
+      },
+      "properties": {
+        "object_id": 4,
+        "name": "Κομνηνών"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54488535,
+          41.08527837
+        ]
+      },
+      "properties": {
+        "object_id": 5,
+        "name": "Verona Pizza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55502401,
+          41.09054356
+        ]
+      },
+      "properties": {
+        "object_id": 6,
+        "name": "Φιλίππου - Μεγάλου Αλεξάνδρου"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.53850327,
+          41.08715711
+        ]
+      },
+      "properties": {
+        "object_id": 7,
+        "name": "Ηλεκτρονική"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52799507,
+          41.08672045
+        ]
+      },
+      "properties": {
+        "object_id": 8,
+        "name": "Στρατόπεδο"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54259591,
+          41.08219159
+        ]
+      },
+      "properties": {
+        "object_id": 9,
+        "name": "Πυροσβεστική"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55135289,
+          41.08975559
+        ]
+      },
+      "properties": {
+        "object_id": 10,
+        "name": "Γεωργίου Παπανδρέου"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54573994,
+          41.08598868
+        ]
+      },
+      "properties": {
+        "object_id": 11,
+        "name": "Μεραρχίας - Έναντι ΤΑΞΙ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.54445337,
+          41.08792632
+        ]
+      },
+      "properties": {
+        "object_id": 12,
+        "name": "Σταθμαρχείο Νιγρίτης"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.49557535,
+          41.09877884
+        ]
+      },
+      "properties": {
+        "object_id": 13,
+        "name": "Λευκώνας"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4953968,
+          41.09918753
+        ]
+      },
+      "properties": {
+        "object_id": 14,
+        "name": "Λευκώνας"
+      }
+    }
+  ]
+}
