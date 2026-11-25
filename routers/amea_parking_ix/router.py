@@ -14,7 +14,7 @@ BASE_DIR = Path.cwd()
 GEOJSON_FILE = BASE_DIR / "routers/amea_parking_ix/amea_parking_ix.geojson"
 
 @router.get('', status_code=200)
-async def crosswalks():
+async def area_parking_ix():
   try:
     with open(GEOJSON_FILE, "r", encoding="utf-8") as f:
       data = json.load(f)

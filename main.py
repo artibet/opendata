@@ -11,6 +11,7 @@ from routers.amea_parking_ix import router as amea_parking_ix_router
 from routers.bicycles import router as bicycles_router
 from routers.loading_zones import router as loading_zones_router
 from routers.public_parking import router as public_parking_router
+from routers.bus_stops import router as bus_stops_router
 
 # Load environment variables from .env
 load_dotenv()
@@ -40,3 +41,4 @@ app.include_router(amea_parking_ix_router.router)
 app.include_router(bicycles_router.router)
 app.include_router(loading_zones_router.router)
 app.include_router(public_parking_router.router)
+app.include_router(bus_stops_router.router)
